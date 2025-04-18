@@ -26,13 +26,13 @@
 
 ### 启动方式
 ```bash
-# 克隆项目
+#### 克隆项目
 git clone https://github.com/xuan0331/NetworkIP.git
 
-# 进入项目目录
+#### 进入项目目录
 cd NetworkIP/src/NetworkIP
 
-# 编译运行
+#### 编译运行
 直接导入IDE（如IntelliJ IDEA）运行MainApp.java
 
 
