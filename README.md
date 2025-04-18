@@ -29,26 +29,27 @@
 直接导入IDE（推荐IntelliJ IDEA）运行Main.java
 
 🏗️ 项目结构
-NetworkIP/
-├── src/
-│   └── NetworkIP/
-│       ├── Main.java             # 程序入口
-│       ├── Router.java           # 路由核心逻辑
-│       ├── IPAddress.java        # IP地址处理
-│       ├── Route.java            # 路由条目实体
-│       ├── RouterFrame.java      # 主窗口框架
-│       ├── RouterController.java # 控制核心
-│       ├── InputPanel.java       # 输入面板
-│       └── ResultPanel.java      # 结果展示
-└── README.md
+## 🏗️ 项目结构
+- NetworkIP/
+  - src/
+    - NetworkIP/
+      - Main.java             # 程序入口
+      - Router.java           # 路由核心逻辑
+      - IPAddress.java        # IP地址处理
+      - Route.java            # 路由条目实体
+      - RouterFrame.java      # 主窗口框架
+      - RouterController.java # 控制核心
+      - InputPanel.java       # 输入面板
+      - ResultPanel.java      # 结果展示
+  - README.md
 
 🎮 使用演示
 启动界面
 主界面截图
-![1](https://github.com/user-attachments/assets/4946b641-c6b8-487d-ab1f-fd256ba2e7a9){: width="400"}
+![1](https://github.com/user-attachments/assets/4946b641-c6b8-487d-ab1f-fd256ba2e7a9)
 
 路由查询
-![屏幕截图 2025-04-18 202455](https://github.com/user-attachments/assets/81da83f2-050b-4b3b-9b05-8da62a7a3038){: width="400"}
+![屏幕截图 2025-04-18 202455](https://github.com/user-attachments/assets/81da83f2-050b-4b3b-9b05-8da62a7a3038)
 
 
 📚 教学应用
