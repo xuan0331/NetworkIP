@@ -26,7 +26,7 @@
 
 ### 启动方式
 
-直接导入IDE（推荐IntelliJ IDEA）运行Main.java
+直接导入IDE（推荐IntelliJ IDEA）运行Main.java，应当先建立一个名为NetworkIP的包
 
 🏗️ 项目结构
 ## 🏗️ 项目结构
