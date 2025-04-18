@@ -26,17 +26,17 @@
 
 ### 启动方式
 ```bash
-#### 克隆项目
+克隆项目
 git clone https://github.com/xuan0331/NetworkIP.git
 
-#### 进入项目目录
+进入项目目录
 cd NetworkIP/src/NetworkIP
 
-#### 编译运行
+编译运行
 直接导入IDE（如IntelliJ IDEA）运行MainApp.java
 
 
-### 🏗️ 项目结构
+### 🏗️项目结构
 NetworkIP/
 ├── src/
 │   └── NetworkIP/                # 主包
@@ -50,14 +50,14 @@ NetworkIP/
         └── ResultPanel.java      # 结果展示组件
 └── README.md                     # 本文件
 
-## 🎮 使用演示
+### 🎮 使用演示
 启动应用
 启动界面
 
 查询路由
 
 
-## 📚 教学应用
+### 📚 教学应用
 适合用于讲解：
 IP地址分类
 子网划分原理
@@ -65,7 +65,7 @@ IP地址分类
 
 
 
-## 🤝 参与贡献
+### 🤝 参与贡献
 欢迎通过Issue或PR提交：
 改进路由算法
 添加IPv6支持
