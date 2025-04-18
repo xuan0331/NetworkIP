@@ -44,10 +44,12 @@
 🎮 使用演示
 启动界面
 主界面截图
-![1](https://github.com/user-attachments/assets/4946b641-c6b8-487d-ab1f-fd256ba2e7a9)
+![1](https://github.com/user-attachments/assets/aa771903-76b2-46a3-b983-a14551bbcbae)
+
 
 路由查询
-![屏幕截图 2025-04-18 202455](https://github.com/user-attachments/assets/81da83f2-050b-4b3b-9b05-8da62a7a3038)
+![屏幕截图 2025-04-18 202455](https://github.com/user-attachments/assets/e15825a4-43fa-4473-90b0-5c72fc8d016a)
+
 
 
 📚 教学应用
