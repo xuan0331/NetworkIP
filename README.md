@@ -30,9 +30,7 @@
 
 🏗️ 项目结构
 ## 🏗️ 项目结构
-- NetworkIP/
-  - src/
-    - NetworkIP/
+      
       - Main.java             # 程序入口
       - Router.java           # 路由核心逻辑
       - IPAddress.java        # IP地址处理
@@ -41,7 +39,7 @@
       - RouterController.java # 控制核心
       - InputPanel.java       # 输入面板
       - ResultPanel.java      # 结果展示
-  - README.md
+      - README.md
 
 🎮 使用演示
 启动界面
@@ -60,12 +58,10 @@ IP地址分类与子网划分
 
 🤝 参与贡献
 欢迎通过以下方式改进项目：
-提交Issue报告问题
-发起PR贡献代码
+提交Issue报告问题  发起PR贡献代码
 推荐扩展方向：
 IPv6支持
 动态路由协议模拟
-拓扑可视化
 
 📜 开源协议
 本项目采用 MIT License
@@ -73,4 +69,3 @@ IPv6支持
 
 📧 维护者：1350747489@qq.com
 🌍 项目主页：https://github.com/xuan0331/NetworkIP
-
