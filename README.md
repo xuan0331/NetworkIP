@@ -21,7 +21,7 @@
 ## 🚀 快速开始
 
 ### 运行环境
-- JDK 11+
+- JDK 21
 - 系统支持：Windows/macOS/Linux
 
 ### 启动方式
@@ -53,7 +53,8 @@ NetworkIP/
 🎮 使用演示
 启动应用
 启动界面
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/672f2680-8be7-4a59-afdc-110a11c203eb)
+
 
 
 
