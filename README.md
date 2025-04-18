@@ -53,7 +53,7 @@ NetworkIP/
 🎮 使用演示
 启动应用
 启动界面
-![image](https://github.com/user-attachments/assets/672f2680-8be7-4a59-afdc-110a11c203eb)
+![启动界面](./C:\Users\13507\Pictures\Screenshots/1.png)
 
 
 
