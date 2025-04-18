@@ -28,7 +28,7 @@
 
 直接导入IDE（推荐IntelliJ IDEA）运行Main.java，应当先建立一个名为NetworkIP的包
 
-🏗️ 项目结构
+
 ## 🏗️ 项目结构
       
       - Main.java             # 程序入口
@@ -36,9 +36,9 @@
       - IPAddress.java        # IP地址处理
       - Route.java            # 路由条目实体
       - RouterFrame.java      # 主窗口框架
-      - RouterController.java # 控制核心
+      - RouterController.java # 路由转发控制
       - InputPanel.java       # 输入面板
-      - ResultPanel.java      # 结果展示
+      - ResultPanel.java      # 输出面板
       - README.md
 
 🎮 使用演示
