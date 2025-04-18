@@ -13,7 +13,7 @@
 - 📋 **路由表管理**  
   可视化展示网络地址/子网掩码/下一跳/前缀长度
 - 🖥️ **教学友好界面**  
-  - 深色主题按钮设计
+  - 浅色主题按钮设计
   - 中文格式化结果输出
 - 🧩 **模块化设计**  
   清晰的MVC架构，便于扩展
@@ -36,7 +36,7 @@ cd NetworkIP/src/NetworkIP
 直接导入IDE（如IntelliJ IDEA）运行MainApp.java
 
 
-🏗️ 项目结构
+🏗️ #项目结构
 NetworkIP/
 ├── src/
 │   └── NetworkIP/                # 主包
@@ -50,48 +50,33 @@ NetworkIP/
         └── ResultPanel.java      # 结果展示组件
 └── README.md                     # 本文件
 
-🎮 使用演示
+🎮 #使用演示
 启动应用
 启动界面
-![启动界面](./C:\Users\13507\Pictures\Screenshots/1.png)
+![启动界面](./Users\13507\Pictures\Screenshots/1.png)
 
 
 
 
 查询路由
-🛠️ 开发扩展
-添加新路由
-java
-复制
-// 在RouterController中添加
-router.addRoute(new Route("10.0.0.0", "255.0.0.0", "10.0.0.1", 8));
-updateRouteTable();
-自定义界面
-修改ResultPanel.java中的显示格式：
 
-java
-复制
-// 更改结果输出样式
-sb.append(String.format("| %-15s : %-30s |\n", "网络地址", route.getNetwork()));
-📚 教学应用
+
+📚 #教学应用
 适合用于讲解：
-
 IP地址分类
-
 子网划分原理
-
 路由匹配优先级
 
-网络故障排查演练
 
-🤝 参与贡献
+
+🤝 #参与贡献
 欢迎通过Issue或PR提交：
 改进路由算法
 添加IPv6支持
 增强可视化效果
 
-📜 开源协议
+📜 #开源协议
 本项目采用 MIT License，允许教育用途自由使用。
 
-📧 联系维护者：1350747489@qq.com
-🌍 项目主页：https://github.com/xuan0331/NetworkIP
+📧 #联系维护者：1350747489@qq.com
+🌍 #项目主页：https://github.com/xuan0331/NetworkIP
