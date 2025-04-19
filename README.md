@@ -45,13 +45,13 @@
 
 启动界面
 
-![1](https://github.com/user-attachments/assets/53089e2b-dc29-4e91-9d0e-7bdb5d6625f1)
+1.png
 
 
 
 路由查询
 
-![2](https://github.com/user-attachments/assets/5adcebea-6382-46fc-b132-2487d31a776a)
+2.png
 
 
 
