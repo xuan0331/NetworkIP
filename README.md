@@ -45,12 +45,12 @@
 
 启动界面
 
-![1](https://github.com/user-attachments/assets/71ac6be7-fc38-488e-9d1f-22a60dbc8694)
+<img src="https://github.com/user-attachments/assets/f02eb749-76f3-4665-8463-3c54db7a8ccb" width="200" alt="1">
 
 
 路由查询
 
-![2](https://github.com/user-attachments/assets/cb38a407-2687-4daf-a59a-abb626a3da57)
+
 
 
 📚 教学应用
