@@ -1,6 +1,7 @@
 # IP路由模拟系统 🌐
 
 [![Java Version](https://img.shields.io/badge/Java-21%2B-blue)](https://openjdk.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 ![GitHub last commit](https://img.shields.io/github/last-commit/xuan0331/NetworkIP)
 
 > 基于Java Swing的轻量级路由模拟器，演示IP路由匹配过程
