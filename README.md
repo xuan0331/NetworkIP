@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 ![GitHub last commit](https://img.shields.io/github/last-commit/xuan0331/NetworkIP)
 
-> 基于Java Swing的轻量级路由模拟器，可视化演示IP路由匹配过程
+> 基于Java Swing的轻量级路由模拟器，演示IP路由匹配过程
 
 ## ✨ 功能特性
 
@@ -21,24 +21,24 @@
 ## 🚀 快速开始
 
 ### 运行环境
-- **JDK 21+**
+- **JDK 21**
 - 系统支持：Windows/macOS/Linux
 
 ### 启动方式
 
-直接导入IDE（推荐IntelliJ IDEA）运行Main.java，应当先建立一个名为NetworkIP的包
+将NetworkIp包直接导入IDE运行Main.java
 
 
 ## 🏗️ 项目结构
       
-      - MainApp.java          # 程序入口
-      - Route.java           # 路由核心逻辑
-      - IPAddress.java        # IP地址处理
+      - MainApp.java           # 程序入口
+      - Route.java             # 路由核心逻辑
+      - IPAddress.java         # IP地址处理
       - Router.java            # 路由条目实体
-      - RouterFrame.java      # 主窗口框架
-      - RouterController.java # 路由转发控制
-      - InputPanel.java       # 输入面板
-      - ResultPanel.java      # 输出面板
+      - RouterFrame.java       # 主窗口框架
+      - RouterController.java  # 路由转发控制
+      - InputPanel.java        # 输入面板
+      - ResultPanel.java       # 输出面板
       - README.md
 
 🎮 使用演示
