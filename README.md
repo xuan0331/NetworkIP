@@ -36,7 +36,7 @@
     - Route.java             # 路由核心逻辑
     - Router.java            # 路由条目实体
     - RouterController.java  # 路由转发控制
-    - RouterFrame.java      # 主窗口框架
+    - RouterFrame.java       # 主窗口框架
     - InputPanel.java        # 输入面板
     - ResultPanel.java       # 输出面板
     - README.md
@@ -55,24 +55,24 @@
 
 
 
-📚 教学应用
-   适合讲解：
-   IP地址分类与子网划分
-   路由匹配优先级原理
+📚 教学应用  
+适合讲解：  
+IP地址分类与子网划分  
+路由匹配优先级原理
 
 
-🤝 参与贡献
-  欢迎通过以下方式改进项目：
-  提交Issue报告问题  
-  发起PR贡献代码
+🤝 参与贡献  
+欢迎通过以下方式改进项目：  
+提交Issue报告问题  
+发起PR贡献代码  
 
-  推荐扩展方向：
-  IPv6支持
-  动态路由协议模拟
+推荐扩展方向：  
+IPv6支持  
+动态路由协议模拟
 
-  📜 开源协议
-  本项目采用 MIT License
-  允许自由使用和修改
+📜 开源协议  
+本项目采用 MIT License  
+允许自由使用和修改
 
-  📧 维护者：1350747489@qq.com
-  🌍 项目主页：https://github.com/xuan0331/NetworkIP
+📧 维护者：1350747489@qq.com  
+🌍 项目主页：https://github.com/xuan0331/NetworkIP
