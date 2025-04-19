@@ -44,11 +44,11 @@
 🎮 使用演示
 启动界面
 主界面截图
-![1](https://github.com/user-attachments/assets/c4513de9-dd83-47a2-a868-45a92314e0ac)
+
 
 
 路由查询
-![2](https://github.com/user-attachments/assets/421a87e5-ec45-45b2-8e78-38c9ccd1d644)
+
 
 
 📚 教学应用
