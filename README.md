@@ -45,13 +45,13 @@
 
 启动界面
 
-1.png
+![1](pictures/1.png)
 
 
 
 路由查询
 
-2.png
+![2](pictures/2.png)
 
 
 
