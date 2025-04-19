@@ -32,9 +32,9 @@
 ## 🏗️ 项目结构
       
       - MainApp.java          # 程序入口
-      - Router.java           # 路由核心逻辑
+      - Route.java           # 路由核心逻辑
       - IPAddress.java        # IP地址处理
-      - Route.java            # 路由条目实体
+      - Router.java            # 路由条目实体
       - RouterFrame.java      # 主窗口框架
       - RouterController.java # 路由转发控制
       - InputPanel.java       # 输入面板
